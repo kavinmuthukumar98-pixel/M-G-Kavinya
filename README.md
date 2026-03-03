@@ -9,9 +9,13 @@ A highly motivated BSc Computer Science graduate seeking an entry level position
 - **Database: **MySQL
 - **OS: **Windows
 
+## Project
+-- **Personal Nutri Track
+
 ## Education
 - **BSc Computer Science | NGM College (2023-2026)
-- **HSC (85%)** | Viswadeepthi Matriculation Higher Secondary School (2023)
+- **HSC Viswadeepthi Matriculation Higher Secondary School (2023)
+- **SSLC Viswadeepthi Matriculation Higher Secondary School (2021)
 
 ## Certifications
 - Certified in C Programming (Star Age Computers)
