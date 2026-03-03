@@ -10,7 +10,7 @@ A highly motivated BSc Computer Science graduate seeking an entry level position
 - ** OS: ** Windows
 
 ## Project
--- ** Personal Nutri Track
+- ** Personal Nutri Track
 
 ## Education
 - ** BSc Computer Science | NGM College (2023-2026)
